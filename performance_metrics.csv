@@ -1,0 +1,7 @@
+metric,unit_or_scale
+Absolute cycle-efficiency error,percentage points
+Output-power RMSE,W
+Predictive interval coverage probability,%
+Mean prediction interval width,model output
+Out-of-domain index,normalized
+Trust level,%

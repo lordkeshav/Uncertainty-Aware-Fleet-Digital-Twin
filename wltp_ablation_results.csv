@@ -1,0 +1,5 @@
+configuration,WLTP_efficiency_error_pp,effect
+Full UA-FedFDT,0.53,Predictive coverage retained
+Without thermal observer,0.96,WLTP efficiency error increases
+Simple averaging instead of precision-weighted fusion,0.79,WLTP efficiency error increases
+Without uncertainty propagation,0.53,Mean error approximately unchanged; predictive coverage removed

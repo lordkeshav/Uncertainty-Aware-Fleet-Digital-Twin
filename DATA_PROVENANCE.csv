@@ -1,0 +1,11 @@
+artifact,source,status
+machine_parameters_table_I.csv,Exact manuscript table,Exact
+model_update_strategies_table_II.csv,Exact manuscript table,Exact
+fleet_posterior_estimates_table_III.csv,Exact manuscript table,Exact
+validation_results_table_IV.csv,Exact manuscript table,Exact
+wltp_ablation_results.csv,Result discussion,Exact reported values
+benchmark_protocol.csv,Section V,Exact descriptive protocol
+fig04_drive_cycles_digitized.csv,Embedded Figure 4 raster,Approximate digitization
+fig07_trust_vs_ood_digitized.csv,Embedded Figure 7 raster,Approximate digitization
+MODEL_EQUATIONS.txt,DOCX mathematical objects,Equation transcription
+source_figures/*,Embedded DOCX media,Original manuscript raster images

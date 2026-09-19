@@ -1,0 +1,5 @@
+method,raw_data_at_cloud,temperature_for_unseen_cycle,uncertainty_output,privacy_level
+Datasheet model,No,Not required,No,High
+Centralized FDT,Yes,Measured/substituted,No,Low
+Deterministic FedFDT,No,Thermal observer,No,Medium
+Proposed UA-FedFDT,No,Thermal observer,Yes,Medium-high

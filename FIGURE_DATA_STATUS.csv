@@ -1,0 +1,6 @@
+figure,content,data_status,note
+Figure 3,loss + thermal response,source image included,"Raw numerical traces are not embedded separately; copper loss and winding temperature reuse blue styling in a raster image, so exact separation is not defensible."
+Figure 4,training and unseen drive cycles,digitized,Approximate 10-s samples reconstructed from embedded Matplotlib raster; not original source arrays.
+Figure 5,absolute efficiency error,exact,Reproduced directly from Table IV.
+Figure 6,WLTP output-power tracking + 95% band,source image included,Reference/mean/band overlap strongly in JPEG raster; exact original traces are not recoverable from the DOCX.
+Figure 7,trust vs normalized OOD,digitized,Point centers reconstructed from the embedded raster; not original observation-level data.

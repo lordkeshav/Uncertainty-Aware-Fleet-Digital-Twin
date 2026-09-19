@@ -1,0 +1,5 @@
+cycle,datasheet_error_pp,centralized_FDT_error_pp,FedFDT_error_pp,UA_FedFDT_error_pp,predictive_interval_coverage_pct,trust_pct
+NEDC,2.76,0.82,0.76,0.29,96.1,95.2
+WLTP,4.42,1.28,1.17,0.53,94.6,91.4
+US06,5.13,1.73,1.66,0.84,91.8,86.7
+HWFET,3.85,1.06,0.98,0.41,95.3,93.8

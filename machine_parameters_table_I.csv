@@ -1,0 +1,9 @@
+symbol,description,nominal_value,unit,fleet_variation
+Rs0,Phase resistance at 25 °C,0.023,ohm,±7%
+Ld0,d-axis inductance,1.8,mH,regularized
+Lq0,q-axis inductance,3.4,mH,±8%
+lambda_PM0,PM flux linkage,0.166,Wb,±5%
+kh,Hysteresis loss coefficient,0.2,-,log-normal
+kc,Eddy-current loss coefficient,0.19,-,log-normal
+km,Mechanical loss exponent,0.49,-,±10%
+Cw_Cm,Thermal capacitances,identified,-,±15%

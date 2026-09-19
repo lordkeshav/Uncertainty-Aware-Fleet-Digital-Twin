@@ -1,0 +1,13 @@
+item,value,note
+Fleet assets,5,Simulation benchmark; not physical measurement
+Nominal motor power,11 kW,six-pole PMSM
+Rated current,38 A,
+Nominal speed,3000 r/min,
+Maximum speed,6000 r/min,
+Training asset 1,Staircase profile,Asset 1
+Training assets 1–4,Four NEDC-type profiles,Local calibration
+Validation asset 5,NEDC,held-out validation
+Unseen validation asset 5,WLTP,reference revealed after prediction
+Unseen validation asset 5,US06,reference revealed after prediction
+Unseen validation asset 5,HWFET,reference revealed after prediction
+Monte Carlo propagation,1000 parameter samples over 1200 s,reported runtime under one minute

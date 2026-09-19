@@ -1,0 +1,8 @@
+parameter,unit,true_fleet_mean,posterior_mean,posterior_std,comment
+Rs0,ohm,0.0234,0.0232,0.0006,strongly identifiable
+lambda_PM0,Wb,0.1638,0.1641,0.0024,temperature coupled
+Lq0,mH,3.32,3.35,0.09,identifiable under iq excitation
+Ld0,mH,1.8,1.8,0.18,weak without id excitation
+kh,-,0.205,0.208,0.014,loss-sensitive
+kc,-,0.187,0.184,0.019,speed-sensitive
+km,-,0.52,0.51,0.05,high-speed sensitivity
